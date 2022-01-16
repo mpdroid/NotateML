@@ -1,2 +1,2 @@
-# Notate-ML
-Issue tracking for Notate-ML
+# Notate ML
+Issue tracking for Notate ML
