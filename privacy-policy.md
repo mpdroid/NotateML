@@ -3,7 +3,7 @@
 Last updated January 17, 2022
 
 
-Notate ML is mobile application that can be used to create datasets for training Object Detection machine learning models. 
+Notate ML is a mobile application that can be used to create datasets for training Object Detection machine learning models. 
 
 - Notate ML does not require or access any of your personal information.
 - Notate ML does not track or collect any usage data.
