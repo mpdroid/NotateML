@@ -1,6 +1,6 @@
 **Notate NL Privacy Notice**
 
-Last updated January 16, 2022
+Last updated January 17, 2022
 
 
 Notate ML is mobile application that can be used to create datasets for training Object Detection machine learning models. 
