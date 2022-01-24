@@ -1,15 +1,15 @@
 # Notate ML
 Issue tracking for Notate ML
 
-Preparing input image datasets is a critical and challenging task in any Machine Learning project.  Notate ML brings the power and usability of Apple's mobile devices to accelerate this task and deliver higher quality training data to your object detection model.\
+Preparing input image datasets is a critical and challenging task in any Machine Learning project.  Notate ML, now available on the  [App Store](https://apps.apple.com/us/app/notate-ml/id1605408700), brings the power and usability of Apple's mobile devices to accelerate this task and deliver higher quality training data to your object detection model.
 
-FEATURES
+FEATURES\
 ・Create a dataset, type, scan, or speak your labels into it\
 ・Snap new pictures, or import old ones from your photo library\
 ・Crop images, draw bounding boxes, tag and label objects of interest\
 ・Export images and annotations for training with YOLO, Apple Create ML, or Google Auto ML
 
-CREATING A DATASET
+CREATING A DATASET\
 ・Create a new data set and give it a unique name\
 ・Add labels in one of several ways:\
    ・One at a time, using the keyboard\
@@ -19,16 +19,16 @@ CREATING A DATASET
 ・Labels can be edited or deleted by swiping left on each row\
 ・Only unused labels can be deleted
 
-IMPORTING IMAGES
+IMPORTING IMAGES\
 ・Tap into the dataset and import photos (up to 50 at a time) from your Photo Library\
-・This app can only access photos that you select using Apple's photo picker feature\
+・This app can only access photos that you select using Apple's photo picker feature
 
-CAPTURING IMAGES FROM THE CAMERA
+CAPTURING IMAGES FROM THE CAMERA\
 ・While browsing the images in a dataset, tap the "Capture" button to snap new images with the camera\
 ・The app will require your permission to access the camera\
-・If you choose to decline, you can always grant access at a later date using "Settings"\
+・If you choose to decline, you can always grant access at a later date using "Settings"
 
-ANNOTATING THE IMAGE
+ANNOTATING THE IMAGE\
 ・Select an image from the dataset image browser to annotate it\
     ZOOMING and CROPPING\
    ・Pinch with two fingers to zoom in or out of the image\
@@ -38,14 +38,14 @@ ANNOTATING THE IMAGE
    ・Double tap on the image to reset zoom and recenter the image\
    ・Tap the "Reset" button in the bottom panel to  restore image and annotations to the original state before editing\
    ・The cropped image dimensions and visible area dimensions in pixels are displayed above the image at all times\
-    TAGGING
+    TAGGING\
    ・Drag with one finger or stylus to draw bounding boxes around objects of interest\
    ・Long press on a box to select an existing annotation\
    ・Use the picker to assign a label to the selected bounding box\
    ・Or tap the red Delete button to remove the selected box\
    ・Tap anywhere outside the selected box to unselect  it\
 ・Tap the "Reset" button to  restore image and annotations to the original state before editing\
-・Tap the "Done" button to complete annotating the image\
+・Tap the "Done" button to complete annotating the image
 
 
 EXPORTING THE DATASET
@@ -57,7 +57,7 @@ EXPORTING THE DATASET
 ・ After reviewing the export options, tap the "Export" button on the Export options screen to generate data files for training\
 ・ Choose one of the sharing options (e.g. Airdrop, Files) enabled by your device to export the data files
 
-DELETING
+DELETING\
 ・Delete an image by swiping left in the dataset image browser\
 ・Delete an entire dataset by swiping left in the dataset browser\
 ・If a dataset contains images, you will be prompted for confirmation
@@ -68,4 +68,6 @@ Some tips
 ・Maintain different datasets for training and validation\
 ・Limit datasets to under 1000 images each, for ease of use\
 ・Export and delete unused datasets to conserve storage 
+
+
 
