@@ -1,4 +1,4 @@
-**Notate NL Privacy Notice**
+**Notate ML Privacy Notice**
 
 Last updated January 23, 2022
 
