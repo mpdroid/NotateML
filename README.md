@@ -1,7 +1,8 @@
 # Notate ML
 Issue tracking for Notate ML
 
-Preparing input image datasets is a critical and challenging task in any Machine Learning project.  Notate ML brings the power and usability of Apple's mobile devices to accelerate this task and deliver higher quality training data to your object detection model. 
+Preparing input image datasets is a critical and challenging task in any Machine Learning project.  Notate ML brings the power and usability of Apple's mobile devices to accelerate this task and deliver higher quality training data to your object detection model.\
+
 FEATURES
 ・Create a dataset, type, scan, or speak your labels into it\
 ・Snap new pictures, or import old ones from your photo library\
@@ -40,7 +41,7 @@ ANNOTATING THE IMAGE
     TAGGING
    ・Drag with one finger or stylus to draw bounding boxes around objects of interest\
    ・Long press on a box to select an existing annotation\
-   ・Use the picker  to assign a label to the selected bounding box\
+   ・Use the picker to assign a label to the selected bounding box\
    ・Or tap the red Delete button to remove the selected box\
    ・Tap anywhere outside the selected box to unselect  it\
 ・Tap the "Reset" button to  restore image and annotations to the original state before editing\
